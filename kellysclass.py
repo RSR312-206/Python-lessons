@@ -61,6 +61,10 @@ p9 = Point(4, -4)
 print ("%f" % (p9.distance(p8)))
 
 
+p10 = Point(100, 100)
+
+
+
 
 
 
